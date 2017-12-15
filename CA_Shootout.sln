@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Shootout", "CA_Shootout.csproj", "{5A4A1DD2-E3FD-6217-3797-987A23DD13B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Shootout.Editor.Plugins", "CA_Shootout.Editor.Plugins.csproj", "{179C02EC-ED2F-BF5E-25B0-C12BBD68B99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4A1DD2-E3FD-6217-3797-987A23DD13B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4A1DD2-E3FD-6217-3797-987A23DD13B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4A1DD2-E3FD-6217-3797-987A23DD13B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4A1DD2-E3FD-6217-3797-987A23DD13B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179C02EC-ED2F-BF5E-25B0-C12BBD68B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179C02EC-ED2F-BF5E-25B0-C12BBD68B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179C02EC-ED2F-BF5E-25B0-C12BBD68B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179C02EC-ED2F-BF5E-25B0-C12BBD68B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
